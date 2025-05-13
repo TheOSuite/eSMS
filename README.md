@@ -1,4 +1,4 @@
-# Security Misconfiguration Scanner (OWASP A05:2021)
+# Security Misconfiguration Scanner
 
 **Beginner-friendly Python tool with a graphical user interface (GUI) built using Tkinter. It helps identify OWASP A05:2021 – Security Misconfiguration issues in web applications.**
 
@@ -37,8 +37,8 @@ The scanner performs tests for:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/TheOSuite/eSMS.git
-cd eSMS 
+git clone https://github.com/TheOSuite/oSMS.git
+cd oSMS 
 ```
 
 ### 2. Install Dependencies
@@ -52,7 +52,7 @@ pip install -r requirements.txt
 ### 3. Run the Application
 
 ```bash
-python eSMS.py
+python oSMS.py
 ```
 
 ## How to Use
